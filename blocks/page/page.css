@@ -1,0 +1,16 @@
+.page {
+    max-width: 1280px;
+    margin: auto;
+    background: #2A2C2F;
+    color: #ffffff;
+    font-family: "Inter", "Arial", sans-serif;
+    -moz-osx-font-smoothing: grayscale;
+    -webkit-font-smoothing: antialiased;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+h1, h2, div, p, img, a, section, header,footer {
+    border: 1px solid red;
+}
