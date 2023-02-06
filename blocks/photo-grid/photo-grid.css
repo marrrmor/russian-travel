@@ -1,7 +1,4 @@
 .photo-grid {
-    
-    margin: auto;
-    
     padding: 92px 48px 0 48px;
     display: grid;
     justify-items: center;
@@ -13,8 +10,7 @@
     .photo-grid {
         grid-template-columns: repeat(3, 1fr);
         gap: 14px;
-        padding: 92px 48px 0 48px;
-        max-width: 928px;
+        max-width: 100%;
     }
 }
 
@@ -23,7 +19,6 @@
         grid-template-columns: repeat(2, 1fr);
         gap: 16px;
         padding: 88px 24px 0 24px;
-        max-width: 720px;
     }
 }
 

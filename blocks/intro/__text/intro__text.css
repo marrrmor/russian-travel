@@ -13,9 +13,3 @@
         max-width: 720px;
     }
 }
-
-@media screen and (max-width: 767px) {
-    .intro__text {
-        width: calc(100vw - 10%);
-    }
-}
