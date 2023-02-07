@@ -3,7 +3,7 @@
     margin: auto;
     background: #2A2C2F;
     color: #ffffff;
-    font-family: "Inter", "Arial", sans-serif;
+    font-family: 'Inter', 'Arial', sans-serif;
     -moz-osx-font-smoothing: grayscale;
     -webkit-font-smoothing: antialiased;
     display: flex;
