@@ -12,5 +12,5 @@
 * Адаптивная верстка
 * CSS
 
-### Ссылка на GitHub
-https://github.com/marrrmor/russian-travel.git
+## Ссылка на GitHub
+https://marrrmor.github.io/russian-travel/index.html
